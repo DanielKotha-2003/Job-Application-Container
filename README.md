@@ -1,6 +1,8 @@
-# Job Application Tracker 🚀
+# Job Application Container
 
-A sleek, modern Job Application Tracker built with **Streamlit** and **Supabase**. Keep track of your job applications, store your resumes, and monitor your progress with a beautiful, dark-themed interface featuring a glassmorphism design and animated background.
+A Job Application Collector built with **Streamlit** and **Supabase**. Keep track of your job applications, store your resumes, and monitor your progress with a beautiful, dark-themed interface
+
+## **Live Application** https://job-app-container-danielkotha.streamlit.app/ [Hosted on streamlit community cloud]
 
 ## ✨ Features
 
