@@ -3,7 +3,7 @@
 A Job Application Collector built with **Streamlit** and **Supabase**. Keep track of your job applications, store your resumes, and monitor your progress with a beautiful, dark-themed interface
 
 ## **Live Application** https://job-app-container-danielkotha.streamlit.app/ [Hosted on streamlit community cloud]
-    (Please do not upload any document or file in the application)
+(Please do not upload any document or file in the application)
 ## ✨ Features
 
 -   **Application Management**: Add, view, update, and delete job applications.
