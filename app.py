@@ -1,6 +1,7 @@
 import streamlit as st
 from supabase import create_client, Client
 from datetime import datetime
+from urllib.parse import unquote
 import os
 import base64
 
@@ -257,7 +258,7 @@ def delete_application(app_id, resume_url):
         # Extract file path from URL
         if resume_url:
             # URL format: https://[project].supabase.co/storage/v1/object/public/resumes/[file_path]
-            file_path = resume_url.split("/resumes/")[-1] if "/resumes/" in resume_url else None
+            file_path = unquote(resume_url.split("/resumes/")[-1]) if "/resumes/" in resume_url else None
             
             # Delete file from storage
             if file_path:
