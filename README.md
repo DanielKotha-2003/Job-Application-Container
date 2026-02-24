@@ -2,6 +2,8 @@
 
 A sleek, modern Job Application Tracker built with **Streamlit** and **Supabase**. Keep track of your job applications, store your resumes, and monitor your progress with a beautiful, dark-themed interface featuring a glassmorphism design and animated background.
 
+## URL- https://job-app-container-danielkotha.streamlit.app/
+do not upload any data since it can be accessed by the public
 ## ✨ Features
 
 -   **Application Management**: Add, view, update, and delete job applications.
