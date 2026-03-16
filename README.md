@@ -1,4 +1,4 @@
-# Job Application Container
+# Job Application Container Dashboard
 
 A sleek, modern Job Application Tracker built with **Streamlit** and **Supabase**. Keep track of your job applications, store your resumes, and monitor your progress with a beautiful, dark-themed interface featuring a glassmorphism design and animated background.
 
